@@ -2,7 +2,10 @@
 Analysis of weather data using Jupyter Notebook and SQlite
 # Challenge
 - The challenge presents the statistics for the temperature for all stations and years for the months of June and December.
-- Findings:
+# Files 
+- Challenge file: climate_analysis.ipynb
+- Flask file: app.py
+# Findings:
   - In general December has lower temperatures comparing with June.
   - In December the average temperature (71) is almost 4 degrees F less than in June (74.94)
   - The minimum temperature in Dec is 56F and in June is 64F.
